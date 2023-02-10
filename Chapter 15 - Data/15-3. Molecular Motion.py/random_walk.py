@@ -1,5 +1,7 @@
 from random import choice
 
+# Simulate a Random walk
+
 
 class RandomWalk:
     def __init__(self, num_points=5000):
